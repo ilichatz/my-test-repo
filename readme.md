@@ -4,15 +4,15 @@
 
 ### Geography & present activity
 I lived and studied in Greece, Thessaloniki.
-Now stay in Netherlands, Delft, looking forward for job and/or PhD 
+Now I am staying in Netherlands, Delft, looking forward for job and/or PhD 
 in the following fields:
 
-- Computational physics
+- Computational Physics
 - Astroparticle/Nuclear Physics
-- Scientific software/Simulations/Data Science
+- Scientific Software/Simulations/Data Science
 
 ### Education
-1. BSc in Physics, A.U.Th., Institute of Theoritical Physics
+1. BSc in Physics, A.U.Th., Institute of Theoretical Physics
 2. MSc in Computational Physics, A.U.Th., Physics Department
 3. PhD ...(search is on!)
 
