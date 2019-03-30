@@ -1,28 +1,26 @@
-# This is a large heading
+# Ilias Chatzichidiroglou
 
-## This is a smaller heading
+## Physicist || Programmer
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### Geography & present activity
+I lived and studied in Greece, Thessaloniki.
+Now stay in Netherlands, Delft, looking forward for job and/or PhD 
+in the following fields:
 
-- This is
-- an unordered
-- list
+- Computational physics
+- Astroparticle/Nuclear Physics
+- Scientific software/Simulations/Data Science
 
-1. This is
-2. an ordered
-3. list
+### Education
+1. BSc in Physics, A.U.Th., Institute of Theoritical Physics
+2. MSc in Computational Physics, A.U.Th., Physics Department
+3. PhD ...(search is on!)
 
-Here is `some code` in the middle of a sentence.
+
 
 ```
-This is
-a block
-of code
+echo "Hello GitHubers"
 ```
-
 Here is how you make [a link](https://www.wikipedia.org/).
 
 ![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
