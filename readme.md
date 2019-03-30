@@ -23,4 +23,4 @@ echo "Hello GitHubers"
 ```
 Here is how you make [a link](https://www.wikipedia.org/).
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+![This is an image.](https://github.com/ilichatz/my-test-repo/me.jpg)
