@@ -1,1 +1,4 @@
-#*.jpg
+#Ignore all .jpg files
+*.jpg
+# But include my photo!
+!me.jpg
