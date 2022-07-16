@@ -1,6 +1,6 @@
 # Ilias Chatzichidiroglou
 
-## Physicist || Programmer
+## Physicist || Programmer  || Teacher
 
 ### Geography & present activity
 I lived and studied in Greece, Thessaloniki.
